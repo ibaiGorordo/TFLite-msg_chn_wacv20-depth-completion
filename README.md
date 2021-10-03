@@ -7,6 +7,8 @@ Python script for performing depth completion from sparse depth and rgb images u
 
  * **OpenCV** and **tensorflow or tflite_runtime**. Also, **unrealcv** is only required if you want to generate new data using unrealcv.
 
+For the tflite runtime, you can either use tensorflow `pip install tensorflow` or the [TensorFlow Runtime binary](https://github.com/PINTO0309/TensorflowLite-bin)
+
 # UnrealCV synthethic data generation
 The input images and depth are generated using the UnrealCV library (https://unrealcv.org/), you can find more information about how to generate this data in this [other repository for Unreal Synthetic depth generation](https://github.com/ibaiGorordo/UnrealCV-stereo-depth-generation).
 
