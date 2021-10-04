@@ -31,7 +31,7 @@ For ONNX inference, use this other repository:https://github.com/ibaiGorordo/ONN
   * **Video inference (UnrealCV synthetic data)**:
  
  ```
- python videoDepthEstimation.py
+ python video_depth_estimation.py
  ```
  
 # Inference video Example
